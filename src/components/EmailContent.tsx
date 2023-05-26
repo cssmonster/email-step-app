@@ -98,7 +98,7 @@ const EmailContent: React.FC<EmailContentProps> = ({ onContinue }) => {
           </button>
 
           <p className="text-[10px] text-center text-gray-400">
-            By clicking on "Continue", you agree with the Terms & Conditions and
+            By clicking on Continue, you agree with the Terms & Conditions and
             the Privacy Policy
           </p>
         </div>

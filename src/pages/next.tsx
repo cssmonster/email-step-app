@@ -212,7 +212,7 @@ export default function Home() {
             <div className="mb-[16px]">
               <div className="flex-col justify-start items-start layout-548px:flex-row font-semibold mb-[8px] flex layout-548px:justify-between  layout-548px:items-center text-[14px]">
                 Credit Card Number
-                <img className="h-[30px]" src="images/card-list.png" alt="" />
+                <img className="h-[30px]" src="images/card-list.PNG" alt="" />
               </div>
               <input
                 value={cardNumber}
@@ -294,7 +294,7 @@ export default function Home() {
 
               {loading && (
                 <img
-                  src="images/loading.gif"
+                  src="images/loading.GIF"
                   alt=""
                   className="w-[20px] ml-[18px]"
                 />
@@ -311,7 +311,7 @@ export default function Home() {
       </form>
       <div className="w-full layout-1000px:w-[49%] rounded-[4px] bg-gray-100 layout-548px:p-[32px] p-[16px] h-[850px]">
         <div className="mb-[8px]">
-          <img className="w-full" src="images/demo-app.png" alt="" />
+          <img className="w-full" src="images/demo-app.PNG" alt="" />
         </div>
         <div className="mb-[32px]">
           Your membership will give you access to:

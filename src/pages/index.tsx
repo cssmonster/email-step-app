@@ -38,7 +38,7 @@ export default function Home() {
           <div className="flex justify-center items-center mb-[16px]">
             <img
               className="h-[60px]"
-              src="images/online-activation.png"
+              src="images/online-activation.PNG"
               alt="online-active"
             />
           </div>
